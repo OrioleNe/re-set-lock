@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Ajustes</string>
+
+    <string name="section_modules_notifications">Módulos y notificaciones</string>
+    <string name="setting_modules_up_to_date_title">Actualizado</string>
+    <string name="setting_modules_up_to_date_desc">Todos los módulos están actualizados.</string>
+    <string name="setting_developer_notice_title">Aviso del desarrollador</string>
+    <string name="setting_developer_notice_desc">Toca aquí para leer avisos importantes del desarrollador</string>
+    <string name="setting_notifications_title">Notificaciones</string>
+    <string name="setting_notifications_desc">Administra las notificaciones de Pure Lock.</string>
+
+    <string name="section_general">Ajustes generales</string>
+    <string name="setting_language_title">Idioma</string>
+    <string name="setting_language_value">Español</string>
+    <string name="setting_app_theme_title">Tema de la aplicación</string>
+    <string name="setting_app_theme_value">Blanco y negro (predeterminado)</string>
+    <string name="setting_group_title">Grupos</string>
+    <string name="setting_group_value">Unit, Guardians, Family</string>
+    <string name="setting_main_layout_title">Disposición principal</string>
+    <string name="setting_main_layout_value">Por grupo</string>
+    <string name="setting_icon_size_title">Tamaño de íconos</string>
+    <string name="setting_icon_size_value">Grandes</string>
+    <string name="setting_notification_sound_title">Sonido de notificación en la aplicación</string>
+    <string name="setting_notification_sound_value">Seguir configuración de No molestar</string>
+    <string name="setting_custom_font_title">Usar fuente personalizada</string>
+    <string name="setting_custom_font_desc">Desactiva esto para forzar la fuente del sistema.</string>
+    <string name="setting_hide_goodlock_dialog_title">Ocultar el diálogo de Good Lock</string>
+    <string name="setting_hide_goodlock_dialog_desc">Activa esto si ya tienes Good Lock instalado pero sigues viendo un aviso para instalarlo al abrir un módulo.</string>
+    <string name="setting_hide_goodlock_modules_title">Ocultar Good Lock y Good Guardians</string>
+    <string name="setting_hide_goodlock_modules_desc">Oculta Good Lock, Good Guardians y Good Guardians Agent de la lista de módulos.</string>
+    <string name="setting_quick_update_notice_title">Mostrar un aviso rápido cuando haya actualizaciones disponibles</string>
+    <string name="setting_quick_update_notice_desc">Desactiva esto si quieres seguir usando versiones anteriores de algunos módulos.</string>
+
+    <string name="icon_size_small">Pequeños</string>
+    <string name="icon_size_medium">Medios</string>
+    <string name="icon_size_large">Grandes</string>
+    <string name="icon_size_extra_large">Más grandes</string>
+
+    <string name="theme_system">Seguir sistema</string>
+    <string name="theme_light">Luz</string>
+    <string name="theme_dark">Oscuro</string>
+    <string name="theme_material_you">Adaptado (Material You)</string>
+
+    <string name="notif_sound_always_off">Siempre apagado</string>
+    <string name="notif_sound_always_on">Siempre encendido</string>
+    <string name="notif_sound_follow_dnd">Seguir No molestar</string>
+
+    <string name="layout_grid_columns">Cuadrícula de %d columnas</string>
+    <string name="dialog_done">Listo</string>
+
+    <string name="section_app_info">Información de la app</string>
+    <string name="setting_app_version_title">Pure Lock, version 1.4.0(80)</string>
+    <string name="setting_app_developer">Developed by ori</string>
+</resources>

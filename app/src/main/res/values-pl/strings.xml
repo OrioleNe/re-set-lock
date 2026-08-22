@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Ustawienia</string>
+
+    <string name="section_modules_notifications">Moduły i powiadomienia</string>
+    <string name="setting_modules_up_to_date_title">Aktualne</string>
+    <string name="setting_modules_up_to_date_desc">Wszystkie moduły są aktualne.</string>
+    <string name="setting_developer_notice_title">Powiadomienie od dewelopera</string>
+    <string name="setting_developer_notice_desc">Dotknij tutaj, aby przeczytać ważne informacje od dewelopera</string>
+    <string name="setting_notifications_title">Powiadomienia</string>
+    <string name="setting_notifications_desc">Zarządzaj powiadomieniami Pure Lock.</string>
+
+    <string name="section_general">Ustawienia ogólne</string>
+    <string name="setting_language_title">Język</string>
+    <string name="setting_language_value">Polski</string>
+    <string name="setting_app_theme_title">Motyw aplikacji</string>
+    <string name="setting_app_theme_value">Czarno-biały (domyślny)</string>
+    <string name="setting_group_title">Grupy</string>
+    <string name="setting_group_value">Unit, Guardians, Family</string>
+    <string name="setting_main_layout_title">Główny układ</string>
+    <string name="setting_main_layout_value">Według grupy</string>
+    <string name="setting_icon_size_title">Rozmiar ikon</string>
+    <string name="setting_icon_size_value">Duże</string>
+    <string name="setting_notification_sound_title">Wbudowany dźwięk powiadomień</string>
+    <string name="setting_notification_sound_value">Zgodnie z ustawieniem Nie przeszkadzać</string>
+    <string name="setting_custom_font_title">Użyj niestandardowej czcionki</string>
+    <string name="setting_custom_font_desc">Wyłącz tę opcję, aby wymusić czcionkę systemową.</string>
+    <string name="setting_hide_goodlock_dialog_title">Ukryj okno Good Lock</string>
+    <string name="setting_hide_goodlock_dialog_desc">Włącz to, jeśli masz już zainstalowany Good Lock, ale nadal widzisz monit o jego instalację podczas otwierania modułu.</string>
+    <string name="setting_hide_goodlock_modules_title">Ukryj Good Lock i Good Guardians</string>
+    <string name="setting_hide_goodlock_modules_desc">Ukryj Good Lock, Good Guardians i Good Guardians Agent z listy modułów.</string>
+    <string name="setting_quick_update_notice_title">Pokaż krótkie powiadomienie, gdy dostępne są aktualizacje</string>
+    <string name="setting_quick_update_notice_desc">Wyłącz tę opcję, jeśli chcesz nadal używać starszych wersji niektórych modułów.</string>
+
+    <string name="icon_size_small">Małe</string>
+    <string name="icon_size_medium">Średnie</string>
+    <string name="icon_size_large">Duże</string>
+    <string name="icon_size_extra_large">Największe</string>
+
+    <string name="theme_system">Zgodnie z systemem</string>
+    <string name="theme_light">Jasny</string>
+    <string name="theme_dark">Ciemny</string>
+    <string name="theme_material_you">Adaptacyjny (Material You)</string>
+
+    <string name="notif_sound_always_off">Zawsze wyłączony</string>
+    <string name="notif_sound_always_on">Zawsze włączony</string>
+    <string name="notif_sound_follow_dnd">Wyłączony tylko w trybie „Nie przeszkadzać”</string>
+
+    <string name="layout_grid_columns">Siatka %d kolumn</string>
+    <string name="dialog_done">Gotowe</string>
+
+    <string name="section_app_info">Informacje o aplikacji</string>
+    <string name="setting_app_version_title">Pure Lock, version 1.4.0(80)</string>
+    <string name="setting_app_developer">Developed by ori</string>
+</resources>

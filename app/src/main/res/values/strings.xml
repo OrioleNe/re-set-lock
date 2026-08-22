@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pure Lock</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">Settings</string>
+
+    <string name="section_modules_notifications">Modules &amp; notifications</string>
+    <string name="setting_modules_up_to_date_title">Up to date</string>
+    <string name="setting_modules_up_to_date_desc">All modules are up to date.</string>
+    <string name="setting_developer_notice_title">Notice from the Developer</string>
+    <string name="setting_developer_notice_desc">Tap here to read important notices from the developer</string>
+    <string name="setting_notifications_title">Notifications</string>
+    <string name="setting_notifications_desc">Manage Pure Lock notifications.</string>
+
+    <string name="section_general">General settings</string>
+    <string name="setting_language_title">Language</string>
+    <string name="setting_language_value">English</string>
+    <string name="setting_app_theme_title">App theme</string>
+    <string name="setting_app_theme_value">Black and white (default)</string>
+    <string name="setting_group_title">Group</string>
+    <string name="setting_group_value">Unit, Guardians, Family</string>
+    <string name="setting_main_layout_title">Main layout</string>
+    <string name="setting_main_layout_value">By group</string>
+    <string name="setting_icon_size_title">Icon size</string>
+    <string name="setting_icon_size_value">Large</string>
+    <string name="setting_notification_sound_title">In-app notification sound</string>
+    <string name="setting_notification_sound_value">Follow Do Not Disturb setting</string>
+    <string name="setting_custom_font_title">Use custom font</string>
+    <string name="setting_custom_font_desc">Turn this off to force the system font.</string>
+    <string name="setting_hide_goodlock_dialog_title">Hide Good Lock dialog</string>
+    <string name="setting_hide_goodlock_dialog_desc">Turn this on if you already have Good Lock installed but still see a prompt to install it when opening a module.</string>
+    <string name="setting_hide_goodlock_modules_title">Hide Good Lock and Good Guardians</string>
+    <string name="setting_hide_goodlock_modules_desc">Hide Good Lock, Good Guardians and Good Guardians Agent from the module list.</string>
+    <string name="setting_quick_update_notice_title">Show a quick notice when updates are available</string>
+    <string name="setting_quick_update_notice_desc">Turn this off if you want to keep using older versions of some modules.</string>
+
+    <string name="icon_size_small">Small</string>
+    <string name="icon_size_medium">Medium</string>
+    <string name="icon_size_large">Large</string>
+    <string name="icon_size_extra_large">Extra large</string>
+
+    <string name="language_system">Follow system</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+    <string name="language_english">English</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_indonesian">Bahasa Indonesia</string>
+    <string name="language_italian">Italiano</string>
+    <string name="language_polish">Polski</string>
+    <string name="language_portuguese">Português</string>
+    <string name="language_russian">Русский</string>
+    <string name="language_turkish">Türkçe</string>
+    <string name="language_ukrainian">Українська</string>
+    <string name="language_chinese_simplified">簡體中文</string>
+    <string name="language_chinese_traditional">繁體中文</string>
+
+    <string name="theme_system">Follow system</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_material_you">Adaptive (Material You)</string>
+
+    <string name="notif_sound_always_off">Always off</string>
+    <string name="notif_sound_always_on">Always on</string>
+    <string name="notif_sound_follow_dnd">Follow Do Not Disturb setting</string>
+
+    <string name="layout_grid_columns">%d-column grid</string>
+    <string name="dialog_done">Done</string>
+
+
+    <string name="section_app_info">App info</string>
+    <string name="setting_app_version_title">Pure Lock, version 1.4.0(80)</string>
+    <string name="setting_app_developer">Developed by ori</string>
+</resources>

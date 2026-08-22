@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Launch/splash theme. Shown for the shortest span Android allows: the
+        icon has no unfold/scale animation (duration 0), and MainActivity
+        calls installSplashScreen().setKeepOnScreenCondition { false }, so it
+        is dismissed the instant the first frame is ready to draw — that
+        first-frame moment is the floor the OS itself enforces on Android
+        12+; there's no supported way to go below it.
+    -->
+    <style name="Theme.PureLock.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenAnimationDuration">0</item>
+        <item name="postSplashScreenTheme">@style/Theme.PureLock</item>
+    </style>
+
+    <!-- Real app theme, applied the moment the splash theme hands off. -->
+    <style name="Theme.PureLock" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>

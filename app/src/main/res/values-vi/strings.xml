@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pure Lock</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">Thiết lập</string>
+
+    <string name="section_modules_notifications">Modules &amp; thông báo</string>
+    <string name="setting_modules_up_to_date_title">Đã được cập nhật</string>
+    <string name="setting_modules_up_to_date_desc">Tất cả các module đã được cập nhật.</string>
+    <string name="setting_developer_notice_title">Thông báo từ Người phát triển ứng dụng</string>
+    <string name="setting_developer_notice_desc">Nhấn vào đây để đọc các thông báo quan trọng từ nhà phát triển</string>
+    <string name="setting_notifications_title">Thông báo</string>
+    <string name="setting_notifications_desc">Quản lý thông báo của Pure Lock.</string>
+
+    <string name="section_general">Các thiết lập chung</string>
+    <string name="setting_language_title">Ngôn ngữ</string>
+    <string name="setting_language_value">Tiếng Việt</string>
+    <string name="setting_app_theme_title">Giao diện ứng dụng</string>
+    <string name="setting_app_theme_value">Đen trắng (mặc định)</string>
+    <string name="setting_group_title">Nhóm</string>
+    <string name="setting_group_value">Unit, Guardians, Family</string>
+    <string name="setting_main_layout_title">Giao diện chính</string>
+    <string name="setting_main_layout_value">Theo nhóm</string>
+    <string name="setting_icon_size_title">Kích thước các biểu tượng</string>
+    <string name="setting_icon_size_value">Lớn</string>
+    <string name="setting_notification_sound_title">Âm thanh thông báo trong ứng dụng</string>
+    <string name="setting_notification_sound_value">Theo cài đặt Không làm phiền</string>
+    <string name="setting_custom_font_title">Sử dụng font chữ tùy chỉnh</string>
+    <string name="setting_custom_font_desc">Tắt tùy chọn này để buộc sử dụng font chữ hệ thống.</string>
+    <string name="setting_hide_goodlock_dialog_title">Ẩn hộp thoại Good Lock</string>
+    <string name="setting_hide_goodlock_dialog_desc">Bật tùy chọn này nếu bạn đã cài đặt Good Lock nhưng vẫn thấy thông báo yêu cầu cài đặt Good Lock khi mở một module.</string>
+    <string name="setting_hide_goodlock_modules_title">Ẩn Good Lock và Good Guardians</string>
+    <string name="setting_hide_goodlock_modules_desc">Ẩn Good Lock, Good Guardians và Good Guardians Agent khỏi danh sách module.</string>
+    <string name="setting_quick_update_notice_title">Hiển thị thông báo nhanh khi có các bản cập nhật có sẵn</string>
+    <string name="setting_quick_update_notice_desc">Tắt tùy chọn này nếu bạn muốn sử dụng các phiên bản cũ của một số module.</string>
+
+    <string name="icon_size_small">Nhỏ</string>
+    <string name="icon_size_medium">Vừa</string>
+    <string name="icon_size_large">Lớn</string>
+    <string name="icon_size_extra_large">Lớn nhất</string>
+
+    <string name="language_system">Theo hệ thống</string>
+    <string name="language_vietnamese">Tiếng Việt</string>
+    <string name="language_english">English</string>
+
+    <string name="theme_system">Theo hệ thống</string>
+    <string name="theme_light">Sáng</string>
+    <string name="theme_dark">Tối</string>
+    <string name="theme_material_you">Thích nghi (Material You)</string>
+
+    <string name="notif_sound_always_off">Luôn tắt</string>
+    <string name="notif_sound_always_on">Luôn bật</string>
+    <string name="notif_sound_follow_dnd">Theo cài đặt Không làm phiền</string>
+
+    <string name="layout_grid_columns">Lưới %d cột</string>
+    <string name="dialog_done">Xong</string>
+
+
+    <string name="section_app_info">Thông tin ứng dụng</string>
+    <string name="setting_app_version_title">Pure Lock, version 1.4.0(80).</string>
+    <string name="setting_app_developer">Developed by ori</string>
+</resources>

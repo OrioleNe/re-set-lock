@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Настройки</string>
+
+    <string name="section_modules_notifications">Модули и уведомления</string>
+    <string name="setting_modules_up_to_date_title">Обновлено</string>
+    <string name="setting_modules_up_to_date_desc">Все модули обновлены.</string>
+    <string name="setting_developer_notice_title">Уведомление от разработчика</string>
+    <string name="setting_developer_notice_desc">Нажмите здесь, чтобы прочитать важные уведомления от разработчика</string>
+    <string name="setting_notifications_title">Уведомления</string>
+    <string name="setting_notifications_desc">Управление уведомлениями Pure Lock.</string>
+
+    <string name="section_general">Общие настройки</string>
+    <string name="setting_language_title">Язык</string>
+    <string name="setting_language_value">Русский</string>
+    <string name="setting_app_theme_title">Тема приложения</string>
+    <string name="setting_app_theme_value">Черно-белая (по умолчанию)</string>
+    <string name="setting_group_title">Группы</string>
+    <string name="setting_group_value">Unit, Guardians, Family</string>
+    <string name="setting_main_layout_title">Структура меню</string>
+    <string name="setting_main_layout_value">По группам</string>
+    <string name="setting_icon_size_title">Размер значков</string>
+    <string name="setting_icon_size_value">Крупный</string>
+    <string name="setting_notification_sound_title">Звук уведомлений в приложении</string>
+    <string name="setting_notification_sound_value">Как в режиме «Не беспокоить»</string>
+    <string name="setting_custom_font_title">Использовать свой шрифт</string>
+    <string name="setting_custom_font_desc">Отключите это, чтобы использовать системный шрифт.</string>
+    <string name="setting_hide_goodlock_dialog_title">Скрыть диалог Good Lock</string>
+    <string name="setting_hide_goodlock_dialog_desc">Включите, если у вас уже установлен Good Lock, но при открытии модуля всё равно появляется запрос на установку.</string>
+    <string name="setting_hide_goodlock_modules_title">Скрыть Good Lock и Good Guardians</string>
+    <string name="setting_hide_goodlock_modules_desc">Скрыть Good Lock, Good Guardians и Good Guardians Agent из списка модулей.</string>
+    <string name="setting_quick_update_notice_title">Показывать краткое уведомление при наличии обновлений</string>
+    <string name="setting_quick_update_notice_desc">Отключите, если хотите продолжать использовать старые версии некоторых модулей.</string>
+
+    <string name="icon_size_small">Маленький</string>
+    <string name="icon_size_medium">Средний</string>
+    <string name="icon_size_large">Крупный</string>
+    <string name="icon_size_extra_large">Максимальный</string>
+
+    <string name="theme_system">Как в системе</string>
+    <string name="theme_light">Светлый</string>
+    <string name="theme_dark">Темный</string>
+    <string name="theme_material_you">Адаптивный (Material You)</string>
+
+    <string name="notif_sound_always_off">Всегда отключен</string>
+    <string name="notif_sound_always_on">Всегда включен</string>
+    <string name="notif_sound_follow_dnd">Как в «Не беспокоить»</string>
+
+    <string name="layout_grid_columns">Сетка из %d столбцов</string>
+    <string name="dialog_done">Готово</string>
+
+    <string name="section_app_info">О приложении</string>
+    <string name="setting_app_version_title">Pure Lock, version 1.4.0(80)</string>
+    <string name="setting_app_developer">Developed by ori</string>
+</resources>

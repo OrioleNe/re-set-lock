@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">设置</string>
+
+    <string name="section_modules_notifications">模块和通知</string>
+    <string name="setting_modules_up_to_date_title">已是最新</string>
+    <string name="setting_modules_up_to_date_desc">所有模块均为最新版本。</string>
+    <string name="setting_developer_notice_title">开发者通知</string>
+    <string name="setting_developer_notice_desc">点击此处阅读开发者的重要通知</string>
+    <string name="setting_notifications_title">通知</string>
+    <string name="setting_notifications_desc">管理 Pure Lock 的通知。</string>
+
+    <string name="section_general">常规设置</string>
+    <string name="setting_language_title">语言</string>
+    <string name="setting_language_value">简体中文</string>
+    <string name="setting_app_theme_title">应用主题</string>
+    <string name="setting_app_theme_value">黑白（默认）</string>
+    <string name="setting_group_title">团体</string>
+    <string name="setting_group_value">Unit, Guardians, Family</string>
+    <string name="setting_main_layout_title">主要布局</string>
+    <string name="setting_main_layout_value">按分组</string>
+    <string name="setting_icon_size_title">图标大小</string>
+    <string name="setting_icon_size_value">大</string>
+    <string name="setting_notification_sound_title">应用内通知声音</string>
+    <string name="setting_notification_sound_value">跟随勿扰模式设置</string>
+    <string name="setting_custom_font_title">使用自定义字体</string>
+    <string name="setting_custom_font_desc">关闭此项以强制使用系统字体。</string>
+    <string name="setting_hide_goodlock_dialog_title">隐藏 Good Lock 对话框</string>
+    <string name="setting_hide_goodlock_dialog_desc">如果你已安装 Good Lock，但打开模块时仍看到安装提示，请开启此项。</string>
+    <string name="setting_hide_goodlock_modules_title">隐藏 Good Lock 和 Good Guardians</string>
+    <string name="setting_hide_goodlock_modules_desc">从模块列表中隐藏 Good Lock、Good Guardians 和 Good Guardians Agent。</string>
+    <string name="setting_quick_update_notice_title">有更新时显示快速提示</string>
+    <string name="setting_quick_update_notice_desc">如果你想继续使用某些模块的旧版本，请关闭此项。</string>
+
+    <string name="icon_size_small">小</string>
+    <string name="icon_size_medium">中</string>
+    <string name="icon_size_large">大</string>
+    <string name="icon_size_extra_large">最大</string>
+
+    <string name="theme_system">跟随系统</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="theme_material_you">自适应 (Material You)</string>
+
+    <string name="notif_sound_always_off">始终禁用</string>
+    <string name="notif_sound_always_on">始终启用</string>
+    <string name="notif_sound_follow_dnd">跟随请勿打扰</string>
+
+    <string name="layout_grid_columns">%d 列网格</string>
+    <string name="dialog_done">完成</string>
+
+    <string name="section_app_info">应用信息</string>
+    <string name="setting_app_version_title">Pure Lock, version 1.4.0(80)</string>
+    <string name="setting_app_developer">Developed by ori</string>
+</resources>

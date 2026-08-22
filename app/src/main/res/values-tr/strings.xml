@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_title">Ayarlar</string>
+
+    <string name="section_modules_notifications">Modüller ve bildirimler</string>
+    <string name="setting_modules_up_to_date_title">Güncel</string>
+    <string name="setting_modules_up_to_date_desc">Tüm modüller güncel.</string>
+    <string name="setting_developer_notice_title">Geliştiriciden bildirim</string>
+    <string name="setting_developer_notice_desc">Geliştiriciden gelen önemli bildirimleri okumak için buraya dokunun</string>
+    <string name="setting_notifications_title">Bildirimler</string>
+    <string name="setting_notifications_desc">Pure Lock bildirimlerini yönetin.</string>
+
+    <string name="section_general">Genel ayarlar</string>
+    <string name="setting_language_title">Dil</string>
+    <string name="setting_language_value">Türkçe</string>
+    <string name="setting_app_theme_title">Tema</string>
+    <string name="setting_app_theme_value">Siyah beyaz (varsayılan)</string>
+    <string name="setting_group_title">Gruplar</string>
+    <string name="setting_group_value">Unit, Guardians, Family</string>
+    <string name="setting_main_layout_title">Ana düzen</string>
+    <string name="setting_main_layout_value">Gruba göre</string>
+    <string name="setting_icon_size_title">Simge büyüklüğü</string>
+    <string name="setting_icon_size_value">Büyük</string>
+    <string name="setting_notification_sound_title">Uygulama içi bildirim sesi</string>
+    <string name="setting_notification_sound_value">Rahatsız Etmeyin ayarını takip et</string>
+    <string name="setting_custom_font_title">Özel yazı tipi kullan</string>
+    <string name="setting_custom_font_desc">Sistem yazı tipini zorunlu kılmak için bunu kapatın.</string>
+    <string name="setting_hide_goodlock_dialog_title">Good Lock iletişim kutusunu gizle</string>
+    <string name="setting_hide_goodlock_dialog_desc">Good Lock zaten yüklüyse ancak bir modül açarken hâlâ yükleme istemi görüyorsanız bunu açın.</string>
+    <string name="setting_hide_goodlock_modules_title">Good Lock ve Good Guardians\'ı gizle</string>
+    <string name="setting_hide_goodlock_modules_desc">Good Lock, Good Guardians ve Good Guardians Agent\'ı modül listesinden gizle.</string>
+    <string name="setting_quick_update_notice_title">Güncellemeler mevcut olduğunda hızlı bir bildirim göster</string>
+    <string name="setting_quick_update_notice_desc">Bazı modüllerin eski sürümlerini kullanmaya devam etmek istiyorsanız bunu kapatın.</string>
+
+    <string name="icon_size_small">Küçük</string>
+    <string name="icon_size_medium">Orta</string>
+    <string name="icon_size_large">Büyük</string>
+    <string name="icon_size_extra_large">En büyük</string>
+
+    <string name="theme_system">Sistemi takip et</string>
+    <string name="theme_light">Aydınlık</string>
+    <string name="theme_dark">Karanlık</string>
+    <string name="theme_material_you">Uyarlanabilir (Material You)</string>
+
+    <string name="notif_sound_always_off">Her zaman devre dışı</string>
+    <string name="notif_sound_always_on">Her zaman etkin</string>
+    <string name="notif_sound_follow_dnd">Rahatsız Etmeyin\'i takip edin</string>
+
+    <string name="layout_grid_columns">%d sütunlu ızgara</string>
+    <string name="dialog_done">Tamam</string>
+
+    <string name="section_app_info">Uygulama bilgisi</string>
+    <string name="setting_app_version_title">Pure Lock, version 1.4.0(80)</string>
+    <string name="setting_app_developer">Developed by ori</string>
+</resources>
